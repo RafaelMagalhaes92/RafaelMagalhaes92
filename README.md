@@ -20,9 +20,10 @@
   <img width="120" hspace="10" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/>
   <img width="86" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </div>
-  
-  
-      
+<br>
+
+  [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/3137wtiazbgoi5t2qawlpfp2bihm)
+ 
 <body>
   <div>
     <h2> Skills </h2>
